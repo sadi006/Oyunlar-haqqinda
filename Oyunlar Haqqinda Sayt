@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Oyunlar Haqqında</title>
+ <link rel="stylesheet" href="css/stylesheet.css">
+
+</head>
+<body style="background-image:url('https://www.wallpaperflare.com/static/4/126/436/simple-simple-background-minimalism-video-game-characters-wallpaper-preview.jpg'); background-size:contain;">
+
+
+  <h1 style="color: white ; text-align: center; background: url('https://wallpaper.dog/large/5529952.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">Dünyada ən çox satan 5 oyun</h1>
+  
+  <div id="GTA V">
+    <abbr title="GTA V"><img src="Grand_Theft_Auto_V_oyununun_kapağı.jpg" alt="GTA V" style="width:150px;height:150px; float: right;"></abbr>
+ 
+    <h4><b>1.GTA 5</b></h4>
+
+  </div>
+  
+  <p><strong>Grand Theft Auto V - </strong><abbr title="ABŞ-da yerləşən Take Two Interactive-də video oyunların yaradıcı bölməsidir.">Rockstar North</abbr> şirkəti tərəfindən hazırlanmış və 2013-cü ildə PlayStation 3 və Xbox 360 oyun konsolları üçün Rockstar Games tərəfindən nəşr olunan aksiyon janrında multiplatform kompüter oyunu.
+    <br>Sonrakı illərdə oyun Microsoft Windows, PlayStation 4 və Xbox One platformalarında sərbəst buraxıldı. Grand Theft Auto seriyasının on beşinci oyunu və Grand Theft Auto IV-dən (2008) sonra növbəti böyük oyun.
+    <br>Rusiyada və MDB-də Grand Theft Auto V oyununun naşiri 1C-SoftKlab şirkətidir.</p>
+
+
+  <br><div>
+  <abbr title="FAR CRY"><img src="6SOISQ9M0FkHf52a4iHcO5OLDKMtjzhj.jfif" alt="FAR CRY 5" style="width:150px;height:150px; float: right;"></abbr>
+
+    <br><h4><b>2.FAR CRY 5</b></h4>
+  
+  </div>
+
+  <p><strong>FAR CRY 5 - </strong><abbr title="Oyun istehsal edən şirkətdir. Baş mərkəzi Fransanın paytaxtı Parisin Montyer kommunasında yerləşir.">Ubisoft</abbr> tərəfindən nəşr olunan birinci şəxs atıcı oyunudur.
+     <br>İlk oyun, Far Cry, CryEngine Proqramının premyerası üçün Crytek tərəfindən hazırlanmış və 2004-cü ilin mart ayında buraxılmışdır.
+     <br>Seriyanın növbəti oyunlarında CryEngine-in modifikasiya olunmuş Ubisoft versiyası, açıq dünyada oynamağa imkan verən Dunia mühərriki istifadə edilmişdir.
+     <br>Seriyada altı əsas oyun vardır. Far Cry oyunları inkişaf tarixinə görə heç bir əhəmiyyətli paylaşılan hekayə elementlərinə malik deyil,
+     <br>əksinə oyunçunu səhra mühitində yerləşdirmək mövzusunu paylaşır, burada onlar regiona nəzarət edən bir və ya bir neçə despotla mübarizə aparmağa kömək etməlidirlər.</p>
+
+     
+  <div>
+  <abbr title="MINECRAFT"><img src="unnamed.png" alt="MINECRAFT" style="width:150px;height:150px; float: right;"></abbr>
+  
+  <br><b>3.MINECRAFT</b></h4>
+
+
+  </div>
+  
+  <p><strong>MINECRAFT - </strong><abbr title="2009-cu ilin mayında İsveçdə qorulmuş video oyun şirkəti.">Mojang</abbr> tərəfindən hazırlanmış bir sandbox video oyunu.
+    <br>Oyun Java proqramlaşdırma dilində Markus "Notch" Persson tərəfindən yaradılmışdır.
+    <br>Minecraft ildən ilə digər platformalar üçün idxal edilmişdir.
+    <br>Bütün zamanların ən çox satan video oyunudur və 126 milyon aylıq aktiv istifadəçisi vardır.</p>
+
+
+
+<div>
+<abbr title="PAC-MAN"><br><img src="Pac-man_oyununun_başlangıcı.png" alt="PAC-MAN" style="width:150px;height:150px; float: right;"></abbr>
+
+  
+  <br><h4><b>4.PAC-MAN</b></h4>
+
+</div>
+
+  <p ><strong>PAC-MAN - </strong>Pac-Man'da oyunçu labirint içərisində hərəkət edərək sarı diskləri bitirməyə çalışır.
+    <br>Qarabasma və canavarlardan qaçaraq, hədəfi bütün kiçik diskləri toplamaq olan oyunçu disklərin hamısını toplayınca digər mərhələyə keçir.
+    <br>Daha çox bal toplamaq üçün çıxan meyvələri toplamaq lazımdır.
+    <br>Böyük sarı diskləri aldığında qarabasma və canavarlar rənglərini göyə dəyişirlər və bir müddət yeyiləbilir vəziyyətə gəlirlər.
+    <br>Oyun Yaponiyada Puck-Man olaraq adlandırılırdı. Ancaq bəzi vandallar "P" hərfini "F" ilə dəyişdirincə, oyun Amerikada Pac-Man olaraq çıxdı.
+    <br>İlk dəfə <abbr title=" Dünyanın ən böyük axtarış sistemi və reklam sahəsində ixtisaslaşmış ABŞ-da yerləşən transmilli şirkət. ">Google</abbr> Pacman ilə birlikdə 21 May 2010-cu ildə bir jest edərək bu oyunu loqosu yerinə qoymuşdur.</p>
+
+
+    
+
+<div>
+<abbr title="CALL of DUTY"><img src="th.jfif" alt="CALL of DUTY" style="width:300px;height:150px; float: right;"></abbr>
+  
+  <br><h4><b>CALL of DUTY</b></h4>
+
+</div>    
+
+   <p><strong>CALL of DUTY - </strong>ABŞ şirkəti <abbr title="Kompüter oyunlarına distrübüterlik edən şirkət.">"Activision"</abbr> tərəfindən istehsal olunan birinci şəxs atıcı janrında video oyunlar seriyası.
+    <br>Bu seriyadakı oyunlar "Infinity Ward", "Treyarch" və "Sledgehammer Games" kimi studiyalar tərəfindən istehsal edilmişdir.
+    <br>2003-cü ildə satışa çıxarılan ilk oyunla başlayan seriyanın ilkin epizodlarının məzmunu İkinci Dünya mharibəsinə yönəlmişdi.
+    <br>Seriyanın daha sonra buraxılan epizodlarının hadisələri Soyuq müharibə dövründə, yaxın gələcəkdə, hətta kosmosda cərəyan edirdi.</p>
+
+
+
+
+
+    
+    <br><p><small>Hazırladı : <abbr title="sedismayilzade@gmail.com"><mark>Sədi İsmayılzadə</mark></abbr></small></p>
+
+
+
+</body>
