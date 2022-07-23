@@ -1,0 +1,33 @@
+.bashliq{
+
+    cursor:alias
+}
+
+.main ul{
+    list-style: none;
+}
+
+.navbar li{
+
+    display: inline;
+    color: azure;
+    font-family: 'Abel', sans-serif;
+}
+
+section h2{
+    color: azure;
+    font-family: 'Abel', sans-serif;
+    
+}
+
+h2{
+    text-align: center;
+    color: azure;
+    cursor: pointer;
+    
+}
+
+h5{
+
+    cursor: pointer;
+}
